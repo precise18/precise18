@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Precision💫 :
 Aspiring software developer | Building with Python | Curious about software, systems, and solving real problems | Open to growth and new technologies
 
 
